@@ -1,0 +1,40 @@
+header{
+    background-color:rgb(243, 11, 204);
+    display: flex;
+    justify-content: space-around;
+   position: relative;
+}
+ ul{
+    color: rgb(247, 9, 195);
+    display: relative;
+    justify-content: space-around;
+    width: 40% ;
+    position: relative;  
+    right: 300px;
+
+}
+.logo{
+    position: relative;
+    right: 80px;
+}
+
+.nav-buttons{
+  /*border: 1px solid yellow;*/
+ 
+  display: flex;
+  justify-content: space-around;
+  
+  border: none;
+  
+}
+.loginbout{
+    background: rgb(161, 26, 161);
+    border-radius: 5px;
+    border: none;
+  font-size: 15px;
+  height: 40px;
+  padding: 1% 15%;
+  margin-right:2%;
+  cursor: pointer;
+ position: relative;
+ right: 10px;
